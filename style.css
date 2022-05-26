@@ -10,17 +10,30 @@ img.recipes {
   padding: 10px;
   border-radius: 30px;
   border: 2px solid transparent;
+  width: 300px;
+  height: 275px;
+  opacity: 0.8;
 }
 
 img.recipes:hover {
   border: dashed white 2px;
   transition: all 0.2s;
+  opacity: 1;
 }
 
 h3.titles {
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 0.829);
 }
+
 h3.titles:hover {
   color: white;
   transition: all 0.2s;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
 }
