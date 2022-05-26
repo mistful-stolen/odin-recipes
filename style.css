@@ -1,0 +1,26 @@
+.text-center {
+  text-align: center;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+img.recipes {
+  padding: 10px;
+  border-radius: 30px;
+  border: 2px solid transparent;
+}
+
+img.recipes:hover {
+  border: dashed white 2px;
+  transition: all 0.2s;
+}
+
+h3.titles {
+  color: rgba(255, 255, 255, 0.9);
+}
+h3.titles:hover {
+  color: white;
+  transition: all 0.2s;
+}
