@@ -1,4 +1,5 @@
 # odin-recipes
 
-For now, I'll say this will be a fast-made recipes site where all list recipes I think. I hope. Well, I'll know at the end. For now this is is simply here as some dummy text.
+A website for recipes. Hoping to see a Master Chief Burger huh? Stop potatoing and read the recipes.
 
+More CSS will be added later on.
